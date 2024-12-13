@@ -1,2 +1,2 @@
 # apnacollage-demo
-author-nisha bhattarai
+author-nisha bhattarai (neeshu)
